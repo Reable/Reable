@@ -7,7 +7,7 @@
 
 ---
 ###  About Me :
-I am junior backend developer in Russia
+I am junior fullstack developer in Russia
 
 - :school: I am a fourth-year student at the Sosnogorsk Technological College
 
